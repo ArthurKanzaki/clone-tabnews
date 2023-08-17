@@ -4,6 +4,8 @@ Projeto de implementação do https://www.tabnews.com.br
 Estrutura básica do Projeto:
 
  Node: 
+    - Verificando as versões do node.js LTS
+        nvm ls
 
     - lts/hydrogen -> v18.16
         nvm install lts/hydrogen
